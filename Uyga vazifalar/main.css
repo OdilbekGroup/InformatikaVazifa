@@ -94,3 +94,8 @@ th {
     background-color: transparent;
     justify-content: center;
 }
+tr:hover {
+    background-color: blue;
+    color: white;
+    transition: 0.3s;
+}
